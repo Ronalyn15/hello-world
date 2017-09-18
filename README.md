@@ -1,2 +1,4 @@
 # hello-world
-This is my first try in Github
+Hi, I'm Ronalyn trying to do my best in everthing :)
+
+I'm just practicing on this one.
